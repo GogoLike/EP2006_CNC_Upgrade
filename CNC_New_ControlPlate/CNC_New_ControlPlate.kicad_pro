@@ -324,6 +324,10 @@
     [
       "07e4ffe7-a231-410f-8aa1-cd8347b537a5",
       "HOME optocouplers"
+    ],
+    [
+      "cddb5583-7ddf-474c-aeca-fbc0e04243fc",
+      "Steppers"
     ]
   ],
   "text_variables": {}
