@@ -1,0 +1,3 @@
+[submodule "6-AXIS-USBCNC-GRBL"]
+	path = 6-AXIS-USBCNC-GRBL
+	url = https://github.com/robomechs/6-AXIS-USBCNC-GRBL.git
