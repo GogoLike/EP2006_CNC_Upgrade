@@ -930,7 +930,7 @@
     (in_bom yes) (on_board yes)
     (uuid fab1d4b5-7f40-4e7c-a269-5493418d8603)
     (property "Reference" "U?" (id 0) (at 149.86 67.31 0))
-    (property "Value" "" (id 1) (at 149.86 63.5 0)
+    (property "Value" "7406" (id 1) (at 149.86 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (id 2) (at 149.86 72.39 0)

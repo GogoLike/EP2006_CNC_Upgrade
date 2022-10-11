@@ -2062,7 +2062,7 @@
     (property "Reference" "J?" (id 0) (at 55.88 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 55.8799 132.08 90)
+    (property "Value" "SPINDEL" (id 1) (at 55.8799 132.08 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "" (id 2) (at 55.88 121.92 0)
@@ -2533,6 +2533,9 @@
     )
     (path "/cddb5583-7ddf-474c-aeca-fbc0e04243fc/5073a31c-56c7-4a11-a025-f6ad24fd7dbb"
       (reference "U?") (unit 1) (value "7406") (footprint "")
+    )
+    (path "/f81b86d1-c1b9-4e8d-8ec5-902244442743/9f735f94-c12e-4d19-924f-16af0f881e41"
+      (reference "U?") (unit 1) (value "ATtiny2313V-10P") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/cddb5583-7ddf-474c-aeca-fbc0e04243fc/3d75ff4a-fbad-4181-b5f4-65bd16a4fd34"
       (reference "U?") (unit 2) (value "7406") (footprint "")
