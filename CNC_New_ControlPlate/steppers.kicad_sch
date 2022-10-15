@@ -880,7 +880,7 @@
   (symbol (lib_id "74xx_IEEE:7406") (at 147.32 31.75 0) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid d0c77ff0-7214-44b8-82a4-7b53dbf843df)
-    (property "Reference" "U?" (id 0) (at 147.32 26.67 0))
+    (property "Reference" "U3" (id 0) (at 147.32 26.67 0))
     (property "Value" "7406" (id 1) (at 147.32 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )

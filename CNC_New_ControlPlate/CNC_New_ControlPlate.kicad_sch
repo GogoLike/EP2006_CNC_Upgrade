@@ -2665,6 +2665,12 @@
     (path "/07e4ffe7-a231-410f-8aa1-cd8347b537a5/ac9e6c46-44b8-4d55-a41d-775fd311b6e4"
       (reference "U2") (unit 4) (value "PC847") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
+    (path "/f81b86d1-c1b9-4e8d-8ec5-902244442743/b9595b34-f221-474a-9e96-c82fbffe4b43"
+      (reference "U3") (unit 1) (value "7406") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+    )
+    (path "/cddb5583-7ddf-474c-aeca-fbc0e04243fc/d0c77ff0-7214-44b8-82a4-7b53dbf843df"
+      (reference "U3") (unit 2) (value "7406") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+    )
     (path "/cddb5583-7ddf-474c-aeca-fbc0e04243fc/fab1d4b5-7f40-4e7c-a269-5493418d8603"
       (reference "U3") (unit 3) (value "7406") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
@@ -2679,12 +2685,6 @@
     )
     (path "/f81b86d1-c1b9-4e8d-8ec5-902244442743/9f735f94-c12e-4d19-924f-16af0f881e41"
       (reference "U4") (unit 1) (value "ATtiny2313V-10P") (footprint "Package_DIP:DIP-20_W7.62mm")
-    )
-    (path "/f81b86d1-c1b9-4e8d-8ec5-902244442743/b9595b34-f221-474a-9e96-c82fbffe4b43"
-      (reference "U?") (unit 1) (value "7406") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
-    )
-    (path "/cddb5583-7ddf-474c-aeca-fbc0e04243fc/d0c77ff0-7214-44b8-82a4-7b53dbf843df"
-      (reference "U?") (unit 2) (value "7406") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
     (path "/f81b86d1-c1b9-4e8d-8ec5-902244442743/a95f66a3-1299-49c3-9845-b9159b1bfeaa"
       (reference "Y1") (unit 1) (value "4MHz") (footprint "Crystal:Crystal_HC49-4H_Vertical")
