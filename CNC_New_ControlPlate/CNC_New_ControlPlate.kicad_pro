@@ -381,7 +381,6 @@
         "microvia_drill": 0.1,
         "name": "sign",
         "nets": [
-          "Net-(U4-Pad6)",
           "PAUSE_3.3V",
           "SENSOR_3.3V",
           "SP_1",
